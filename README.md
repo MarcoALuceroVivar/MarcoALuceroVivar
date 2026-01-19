@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 Im Marco!
+
+I am a recent First generation Computer Science graduate with a focus in Cyber Security. I'm passionate about building secure systems and understanding the intersection of human behavior and digital security.
+
+Currently i am working on labs focused on Virutal Networking, automation and IT tooling.
+
+I'm working toward a career in Cyber Security or System Administration roles. My current focus is strengthening my foundation in IT fundamentals, cloud services, automation, and security while continuing to build and refine hands-on projects.
+
 
 <!--
 **MarcoALuceroVivar/MarcoALuceroVivar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
