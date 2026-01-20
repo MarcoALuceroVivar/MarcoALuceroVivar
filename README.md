@@ -8,6 +8,8 @@ I'm working toward a career in Cyber Security or System Administration roles. My
 
 I enjoy playing single-player survival games, attending concerts, and seeing my Yankees lose.
 
+Currently working as a Pharmacy Technician 💊
+
 <!--
 **MarcoALuceroVivar/MarcoALuceroVivar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
