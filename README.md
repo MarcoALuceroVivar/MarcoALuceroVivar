@@ -2,11 +2,11 @@
 
 I am a recent First generation Computer Science graduate with a focus in Cyber Security. I'm passionate about building secure systems and understanding the intersection of human behavior and digital security.
 
-Currently i am working on labs focused on gaining industry-recognized certifications and creating more labs. 
+Currently i am working on getting my RHCSA(Red Hat Certified System Admin) cert and the CCNA(Cisco Certified Network associate) cer.
 
 I'm working toward a career in Cyber Security or System Administration roles. My current focus is strengthening my foundation in IT fundamentals, cloud services, automation, and security while continuing to build and refine hands-on projects.
 
-I enjoy playing single-player survival games, attending concerts, and seeing my Yankees lose.
+I enjoy playing single-player survival games, attending concerts, and seeing my Yankees win some games
 
 Currently working as a Pharmacy Technician 💊
 
