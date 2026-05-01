@@ -10,6 +10,8 @@ I enjoy playing single-player survival games, attending concerts, and seeing my 
 
 Currently working as a Pharmacy Technician 💊
 
+My current Active Directory lab is a work in progress : )
+
 <!--
 **MarcoALuceroVivar/MarcoALuceroVivar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
